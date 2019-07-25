@@ -13,3 +13,7 @@
 ## Objetivo
 Cria um aplicativo que agilize os atendimentos de parada ***cardiorrespiratório***. Esse aplicativo será utilizado por um grupo de voluntários que através de um cadastro comprovado idoniedade terão acesso ás ocorrências abertas.
 O aplicativo contará com uma área administratica atravé da qual os administradores faram a gestão.
+
+## Contato
+- [Linkedin](https://www.linkedin.com/in/paulohenriq31/)
+- [paulo.henriq31@gmail.com](mailto:ph.henriq31@gmail.com)
