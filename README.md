@@ -16,4 +16,4 @@ O aplicativo contará com uma área administratica atravé da qual os administra
 
 ## Contato
 - [Linkedin](https://www.linkedin.com/in/paulohenriq31/)
-- [paulo.henriq31@gmail.com](mailto:ph.henriq31@gmail.com)
+- [ph.henriq31@gmail.com](mailto:ph.henriq31@gmail.com)
